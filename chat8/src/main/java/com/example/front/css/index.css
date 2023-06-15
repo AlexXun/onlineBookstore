@@ -1,0 +1,21 @@
+    /*id选择器*/
+    #a{
+        color: red;
+    }
+    /*类选择器*/
+    .b{
+        color: yellow;
+    }
+    h1.b{
+        color: #999;
+    }
+    .show{
+        width: 2000px;
+        height: 1000px;
+        margin: 10px 20px 30px 40px;
+        background-image: url("../img/dog.jpg");
+        padding: 10px;
+        border-style: solid;
+        border-color: green;
+        border-width: 1px;
+    }
